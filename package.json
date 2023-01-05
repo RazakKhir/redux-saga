@@ -1,5 +1,5 @@
 {
-  "name": "redux-saga",
+  "name": "redux-saga-test",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -10,6 +10,7 @@
     "@types/node": "^16.18.11",
     "@types/react": "^18.0.26",
     "@types/react-dom": "^18.0.10",
+    "antd": "^5.1.2",
     "css-loader": "^6.7.3",
     "i18next": "^22.4.8",
     "react": "^18.2.0",
